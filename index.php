@@ -1,1 +1,5 @@
-echo "hello!" ;
+<?php 
+
+echo "see you";
+ 
+?>
